@@ -100,11 +100,11 @@
 		<date>2019/3/1</date>
 		<content>服等：大禮服\n\n適用對象：。\n\n穿著用途/服用時機：重大祭典/婚禮。</content>
 		<clothesID>3</clothesID>
-		<clothes>c1_1_21,c2_1_n1,c2_2_n1,c3_1_n1,c3_2_n111,c3_4_n10,c5_1_n1,c5_2_n21,c6_1_n31,c7_1_n10,c7_2_n10</clothes>
+		<clothes>c1_1_n21,c2_1_n1,c2_2_n1,c3_1_n7,c3_2_n111,c3_3_n21,c3_4_n10,c5_1_n1,c5_2_n21,c6_1_n31,c7_1_n10,c7_2_n10</clothes>
 		<avatar>
 			<c1>c1_1_21</c1>
 			<c2></c2>
-			<c3>c3_1_1,c3_2_111,c3_4_10</c3>
+			<c3>c3_1_7,c3_2_111,c3_3_21,c3_4_10</c3>
 			<c4></c4>
 			<c5>c5_2_21</c5>
 			<c6>c6_1_31</c6>
@@ -115,9 +115,9 @@
 		<scenes>2</scenes>
 	</news>
 	<news>
-		<title>士庶常服－罩甲</title>
+		<title>戎裝－罩甲</title>
 		<date>2019/3/1</date>
-		<content>服等：便服/常服\n\n適用對象：不分士庶，全民適用。\n\n穿著用途/服用時機：日常居家/外出穿著。</content>
+		<content>服等：便服\n\n適用對象：不分士庶，全民適用。\n\n穿著用途/服用時機：日常居家/外出穿著。</content>
 		<clothesID>48</clothesID>
 		<clothes>c1_1_n11,c2_1_n2,c2_2_n1,c3_2_n31,c4_1_n61,c5_1_n1,c5_2_n31,c6_1_n81</clothes>
 		<avatar>
