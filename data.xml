@@ -1,6 +1,25 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <hanclothes>
 	<news>
+		<title>基礎知識：領/襟/袖形</title>
+		<date>2019/3/6</date>
+		<content>https://raw.githubusercontent.com/richardh0820/HanClothesApp/master/books/knowledge-0.jpg</content>
+		<clothesID></clothesID>
+		<clothes></clothes>
+		<avatar>
+			<c1></c1>
+			<c2></c2>
+			<c3></c3>
+			<c4></c4>
+			<c5></c5>
+			<c6></c6>
+			<c7></c7>
+			<start></start>
+		</avatar>
+		<gender></gender>
+		<scenes></scenes>
+	</news>
+	<news>
 		<title>服飾史:明清女裝流變</title>
 		<date>2019/3/1</date>
 		<content>https://raw.githubusercontent.com/richardh0820/HanClothesApp/master/books/knowledge-2.jpg</content>
@@ -157,9 +176,10 @@
 <br/>
 <a href='https://www.facebook.com/Chinesehanclothes/'>華夏衣冠粉絲團</a>
 <br/>
+<a href='https://www.facebook.com/groups/104435683617673/'>衣冠華夏</a>
+<br/>
 臺灣鹿山文社
 <br/>
-<a href='https://www.facebook.com/groups/458888050205/'>中華漢服文化創意發展協會</a>
-
+中華漢服文化創意發展協會
 </about>
 </hanclothes>
