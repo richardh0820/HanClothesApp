@@ -1,6 +1,25 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <hanclothes>
 	<news>
+		<title>操作說明</title>
+		<date>2019/3/9</date>
+		<content>https://raw.githubusercontent.com/richardh0820/HanClothesApp/master/books/knowledge.jpg</content>
+		<clothesID>-1</clothesID>
+		<clothes></clothes>
+		<avatar>
+			<c1></c1>
+			<c2></c2>
+			<c3></c3>
+			<c4></c4>
+			<c5></c5>
+			<c6></c6>
+			<c7></c7>
+			<start></start>
+		</avatar>
+		<gender></gender>
+		<scenes></scenes>
+	</news>
+	<news>
 		<title>認識七具</title>
 		<date>2019/3/10</date>
 		<content>https://raw.githubusercontent.com/richardh0820/HanClothesApp/master/books/knowledge-1.jpg</content>
@@ -227,25 +246,6 @@
 		</avatar>
 		<gender>1</gender>
 		<scenes>2</scenes>
-	</news>
-	<news>
-		<title>操作說明</title>
-		<date>2019/3/9</date>
-		<content>https://raw.githubusercontent.com/richardh0820/HanClothesApp/master/books/knowledge.jpg</content>
-		<clothesID>-1</clothesID>
-		<clothes></clothes>
-		<avatar>
-			<c1></c1>
-			<c2></c2>
-			<c3></c3>
-			<c4></c4>
-			<c5></c5>
-			<c6></c6>
-			<c7></c7>
-			<start></start>
-		</avatar>
-		<gender></gender>
-		<scenes></scenes>
 	</news>
 	<about><b>關於我們：</b>
 <br/>
