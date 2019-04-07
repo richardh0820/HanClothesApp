@@ -16,6 +16,7 @@
 			<c7></c7>
 			<start></start>
 			<paint></paint>
+			<pattern></pattern>
 		</avatar>
 		<gender></gender>
 		<scenes></scenes>
@@ -36,6 +37,7 @@
 			<c7></c7>
 			<start></start>
 			<paint></paint>
+			<pattern></pattern>
 		</avatar>
 		<gender></gender>
 		<scenes></scenes>
@@ -56,6 +58,7 @@
 			<c7></c7>
 			<start></start>
 			<paint></paint>
+			<pattern></pattern>
 		</avatar>
 		<gender></gender>
 		<scenes></scenes>
@@ -76,6 +79,7 @@
 			<c7></c7>
 			<start></start>
 			<paint></paint>
+			<pattern></pattern>
 		</avatar>
 		<gender></gender>
 		<scenes></scenes>
@@ -96,6 +100,7 @@
 			<c7></c7>
 			<start></start>
 			<paint></paint>
+			<pattern></pattern>
 		</avatar>
 		<gender></gender>
 		<scenes></scenes>
@@ -116,6 +121,7 @@
 			<c7></c7>
 			<start>c2_1_n1,c2_2_n1,c5_1_n1</start>
 			<paint></paint>
+			<pattern></pattern>
 		</avatar>
 		<gender>1</gender>
 		<scenes>2</scenes>
@@ -136,6 +142,7 @@
 			<c7></c7>
 			<start>c2_1_n2,c2_2_n1,c5_1_n1</start>
 			<paint>true</paint>
+			<pattern>true</pattern>
 		</avatar>
 		<gender>1</gender>
 		<scenes>2</scenes>
@@ -156,6 +163,7 @@
 			<c7></c7>
 			<start>c2_1_n2,c2_2_n1,c5_1_n1</start>
 			<paint>true</paint>
+			<pattern>true</pattern>
 		</avatar>
 		<gender>1</gender>
 		<scenes>2</scenes>
@@ -176,6 +184,7 @@
 			<c7></c7>
 			<start>c2_1_n11,c2_2_n1,c5_1_n1</start>
 			<paint>true</paint>
+			<pattern>true</pattern>
 		</avatar>
 		<gender>2</gender>
 		<scenes>2</scenes>
@@ -196,6 +205,7 @@
 			<c7>c7_1_1,c7_2_1</c7>
 			<start>c2_1_n1,c2_2_n1,c5_1_n1</start>
 			<paint>true</paint>
+			<pattern>true</pattern>
 		</avatar>
 		<gender>2</gender>
 		<scenes>2</scenes>
@@ -216,6 +226,7 @@
 			<c7>c7_1_10,c7_2_10</c7>
 			<start>c2_1_n1,c2_2_n1,c5_1_n1</start>
 			<paint></paint>
+			<pattern></pattern>
 		</avatar>
 		<gender>1</gender>
 		<scenes>2</scenes>
@@ -236,6 +247,7 @@
 			<c7></c7>
 			<start>c2_1_n2,c2_2_n1,c5_1_n1</start>
 			<paint>true</paint>
+			<pattern>true</pattern>
 		</avatar>
 		<gender>1</gender>
 		<scenes>2</scenes>
@@ -256,6 +268,7 @@
 			<c7></c7>
 			<start></start>
 			<paint></paint>
+			<pattern></pattern>
 		</avatar>
 		<gender></gender>
 		<scenes></scenes>
