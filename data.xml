@@ -1,25 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <hanclothes>
 	<news>
-		<title>操作說明</title>
-		<date>2019/3/9</date>
-		<content>https://raw.githubusercontent.com/richardh0820/HanClothesApp/master/books/knowledge.jpg</content>
-		<clothesID>-1</clothesID>
-		<clothes></clothes>
-		<avatar>
-			<c1></c1>
-			<c2></c2>
-			<c3></c3>
-			<c4></c4>
-			<c5></c5>
-			<c6></c6>
-			<c7></c7>
-			<start></start>
-		</avatar>
-		<gender></gender>
-		<scenes></scenes>
-	</news>
-	<news>
 		<title>認識七具</title>
 		<date>2019/3/10</date>
 		<content>https://raw.githubusercontent.com/richardh0820/HanClothesApp/master/books/knowledge-1.jpg</content>
@@ -37,6 +18,7 @@
 		</avatar>
 		<gender></gender>
 		<scenes></scenes>
+		<paint></paint>
 	</news>
 	<news>
 		<title>明清服飾的流變</title>
@@ -56,6 +38,7 @@
 		</avatar>
 		<gender></gender>
 		<scenes></scenes>
+		<paint></paint>
 	</news>
 	<news>
 		<title>道袍的穿搭層次</title>
@@ -75,6 +58,7 @@
 		</avatar>
 		<gender></gender>
 		<scenes></scenes>
+		<paint></paint>
 	</news>
 	<news>
 		<title>長衫的穿搭層次</title>
@@ -94,6 +78,7 @@
 		</avatar>
 		<gender></gender>
 		<scenes></scenes>
+		<paint></paint>
 	</news>
 	<news>
 		<title>基礎知識：領/襟/袖形</title>
@@ -113,6 +98,7 @@
 		</avatar>
 		<gender></gender>
 		<scenes></scenes>
+		<paint></paint>
 	</news>
 	<news>
 		<title>聖賢法服－深衣</title>
@@ -132,6 +118,7 @@
 		</avatar>
 		<gender>1</gender>
 		<scenes>2</scenes>
+		<paint></paint>
 	</news>
 	<news>
 		<title>男士正裝－道袍</title>
@@ -151,6 +138,7 @@
 		</avatar>
 		<gender>1</gender>
 		<scenes>2</scenes>
+		<paint>true</paint>
 	</news>
 	<news>
 		<title>男士正裝－直身</title>
@@ -170,6 +158,7 @@
 		</avatar>
 		<gender>1</gender>
 		<scenes>2</scenes>
+		<paint>true</paint>
 	</news>
 	<news>
 		<title>女性正裝－衫裙</title>
@@ -189,6 +178,7 @@
 		</avatar>
 		<gender>2</gender>
 		<scenes>2</scenes>
+		<paint>true</paint>
 	</news>
 	<news>
 		<title>女性正裝－長衫</title>
@@ -208,6 +198,7 @@
 		</avatar>
 		<gender>2</gender>
 		<scenes>2</scenes>
+		<paint>true</paint>
 	</news>
 	<news>
 		<title>官員禮服－朝服</title>
@@ -227,6 +218,7 @@
 		</avatar>
 		<gender>1</gender>
 		<scenes>2</scenes>
+		<paint></paint>
 	</news>
 	<news>
 		<title>戎裝－罩甲</title>
@@ -246,6 +238,27 @@
 		</avatar>
 		<gender>1</gender>
 		<scenes>2</scenes>
+		<paint>true</paint>
+	</news>
+	<news>
+		<title>＊操作說明＊</title>
+		<date>2019/3/9</date>
+		<content>https://raw.githubusercontent.com/richardh0820/HanClothesApp/master/books/knowledge.jpg</content>
+		<clothesID>-1</clothesID>
+		<clothes></clothes>
+		<avatar>
+			<c1></c1>
+			<c2></c2>
+			<c3></c3>
+			<c4></c4>
+			<c5></c5>
+			<c6></c6>
+			<c7></c7>
+			<start></start>
+		</avatar>
+		<gender></gender>
+		<scenes></scenes>
+		<paint></paint>
 	</news>
 	<about><b>關於我們：</b>
 <br/>
