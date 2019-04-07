@@ -15,10 +15,10 @@
 			<c6></c6>
 			<c7></c7>
 			<start></start>
+			<paint></paint>
 		</avatar>
 		<gender></gender>
 		<scenes></scenes>
-		<paint></paint>
 	</news>
 	<news>
 		<title>明清服飾的流變</title>
@@ -35,10 +35,10 @@
 			<c6></c6>
 			<c7></c7>
 			<start></start>
+			<paint></paint>
 		</avatar>
 		<gender></gender>
 		<scenes></scenes>
-		<paint></paint>
 	</news>
 	<news>
 		<title>道袍的穿搭層次</title>
@@ -55,10 +55,10 @@
 			<c6></c6>
 			<c7></c7>
 			<start></start>
+			<paint></paint>
 		</avatar>
 		<gender></gender>
 		<scenes></scenes>
-		<paint></paint>
 	</news>
 	<news>
 		<title>長衫的穿搭層次</title>
@@ -75,10 +75,10 @@
 			<c6></c6>
 			<c7></c7>
 			<start></start>
+			<paint></paint>
 		</avatar>
 		<gender></gender>
 		<scenes></scenes>
-		<paint></paint>
 	</news>
 	<news>
 		<title>基礎知識：領/襟/袖形</title>
@@ -95,10 +95,10 @@
 			<c6></c6>
 			<c7></c7>
 			<start></start>
+			<paint></paint>
 		</avatar>
 		<gender></gender>
 		<scenes></scenes>
-		<paint></paint>
 	</news>
 	<news>
 		<title>聖賢法服－深衣</title>
@@ -115,10 +115,10 @@
 			<c6>c6_1_21</c6>
 			<c7></c7>
 			<start>c2_1_n1,c2_2_n1,c5_1_n1</start>
+			<paint></paint>
 		</avatar>
 		<gender>1</gender>
 		<scenes>2</scenes>
-		<paint></paint>
 	</news>
 	<news>
 		<title>男士正裝－道袍</title>
@@ -135,10 +135,10 @@
 			<c6>c6_1_12</c6>
 			<c7></c7>
 			<start>c2_1_n2,c2_2_n1,c5_1_n1</start>
+			<paint>true</paint>
 		</avatar>
 		<gender>1</gender>
 		<scenes>2</scenes>
-		<paint>true</paint>
 	</news>
 	<news>
 		<title>男士正裝－直身</title>
@@ -155,10 +155,10 @@
 			<c6>c6_1_12</c6>
 			<c7></c7>
 			<start>c2_1_n2,c2_2_n1,c5_1_n1</start>
+			<paint>true</paint>
 		</avatar>
 		<gender>1</gender>
 		<scenes>2</scenes>
-		<paint>true</paint>
 	</news>
 	<news>
 		<title>女性正裝－衫裙</title>
@@ -175,10 +175,10 @@
 			<c6>c6_1_12</c6>
 			<c7></c7>
 			<start>c2_1_n11,c2_2_n1,c5_1_n1</start>
+			<paint>true</paint>
 		</avatar>
 		<gender>2</gender>
 		<scenes>2</scenes>
-		<paint>true</paint>
 	</news>
 	<news>
 		<title>女性正裝－長衫</title>
@@ -195,10 +195,10 @@
 			<c6>c6_1_11</c6>
 			<c7>c7_1_1,c7_2_1</c7>
 			<start>c2_1_n1,c2_2_n1,c5_1_n1</start>
+			<paint>true</paint>
 		</avatar>
 		<gender>2</gender>
 		<scenes>2</scenes>
-		<paint>true</paint>
 	</news>
 	<news>
 		<title>官員禮服－朝服</title>
@@ -215,10 +215,10 @@
 			<c6>c6_1_31</c6>
 			<c7>c7_1_10,c7_2_10</c7>
 			<start>c2_1_n1,c2_2_n1,c5_1_n1</start>
+			<paint></paint>
 		</avatar>
 		<gender>1</gender>
 		<scenes>2</scenes>
-		<paint></paint>
 	</news>
 	<news>
 		<title>戎裝－罩甲</title>
@@ -235,10 +235,10 @@
 			<c6>c6_1_81</c6>
 			<c7></c7>
 			<start>c2_1_n2,c2_2_n1,c5_1_n1</start>
+			<paint>true</paint>
 		</avatar>
 		<gender>1</gender>
 		<scenes>2</scenes>
-		<paint>true</paint>
 	</news>
 	<news>
 		<title>＊操作說明＊</title>
@@ -255,6 +255,7 @@
 			<c6></c6>
 			<c7></c7>
 			<start></start>
+			<paint></paint>
 		</avatar>
 		<gender></gender>
 		<scenes></scenes>
