@@ -120,8 +120,8 @@
 			<c6>c6_1_21</c6>
 			<c7></c7>
 			<start>c2_1_n1,c2_2_n1,c5_1_n1</start>
-			<paint></paint>
-			<pattern></pattern>
+			<paint>true</paint>
+			<pattern>true</pattern>
 		</avatar>
 		<gender>1</gender>
 		<scenes>2</scenes>
