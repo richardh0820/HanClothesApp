@@ -1,6 +1,27 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <hanclothes>
 	<news>
+		<title>夏季衫裙的穿搭</title>
+		<date>2019/6/21</date>
+		<content>https://raw.githubusercontent.com/richardh0820/HanClothesApp/master/books/knowledge-8.jpg</content>
+		<clothesID>0</clothesID>
+		<clothes></clothes>
+		<avatar>
+			<c1></c1>
+			<c2></c2>
+			<c3></c3>
+			<c4></c4>
+			<c5></c5>
+			<c6></c6>
+			<c7></c7>
+			<start></start>
+			<paint></paint>
+			<pattern></pattern>
+		</avatar>
+		<gender></gender>
+		<scenes></scenes>
+	</news>
+	<news>
 		<title>夏季道袍的穿搭</title>
 		<date>2019/6/21</date>
 		<content>https://raw.githubusercontent.com/richardh0820/HanClothesApp/master/books/knowledge-7.jpg</content>
