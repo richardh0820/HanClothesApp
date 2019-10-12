@@ -204,6 +204,27 @@
 			<c6>c6_1_21</c6>
 			<c7></c7>
 			<start>c2_1_n1,c2_2_n1,c5_1_n1</start>
+			<paint>false</paint>
+			<pattern>false</pattern>
+		</avatar>
+		<gender>1</gender>
+		<scenes>2</scenes>
+	</news>
+	<news>
+		<title>男士正裝－道服</title>
+		<date>2019/10/6</date>
+		<content>服等：正裝\n\n適用對象：男性。\n\n服用時機：一般正式場合。\n\n </content>
+		<clothesID>20</clothesID>
+		<clothes>c1_1_n2,c2_2_n1,c3_1_n21,c3_2_n81,c5_1_n1,c5_2_n22,c6_1_n111</clothes>
+		<avatar>
+			<c1>c1_1_2</c1>
+			<c2></c2>
+			<c3>c3_1_21,c3_2_81</c3>
+			<c4></c4>
+			<c5>c5_2_22</c5>
+			<c6>c6_1_111</c6>
+			<c7></c7>
+			<start>c2_1_n2,c2_2_n1,c5_1_n1</start>
 			<paint>true</paint>
 			<pattern>true</pattern>
 		</avatar>
@@ -253,7 +274,7 @@
 		<scenes>2</scenes>
 	</news>
 	<news>
-		<title>女性正裝－衫裙</title>
+		<title>女性正裝－衫裙(弘治款)</title>
 		<date>2019/3/1</date>
 		<content>服等：便服/小禮服\n\n適用對象：女性。\n\n穿著用途：日常居家/外出穿著；做為禮服、吉服之襯衫。\n\n服用時機：一般正式/休閒裝扮\n\n品質差異：買得起，就用高級一點；買不起，就穿普通一點。</content>
 		<clothesID>24</clothesID>
@@ -264,7 +285,7 @@
 			<c3>c3_2_21,c3_4_31</c3>
 			<c4></c4>
 			<c5>c5_2_11</c5>
-			<c6>c6_1_12</c6>
+			<c6></c6>
 			<c7></c7>
 			<start>c2_1_n11,c2_2_n1,c5_1_n1</start>
 			<paint>true</paint>
@@ -274,11 +295,53 @@
 		<scenes>2</scenes>
 	</news>
 	<news>
-		<title>女性正裝－長衫</title>
+		<title>女性正裝－衫裙(嘉靖款)</title>
+		<date>2019/10/6</date>
+		<content>服等：便服/小禮服\n\n適用對象：女性。\n\n穿著用途：日常居家/外出穿著；做為禮服、吉服之襯衫。\n\n服用時機：一般正式/休閒裝扮\n\n品質差異：買得起，就用高級一點；買不起，就穿普通一點。</content>
+		<clothesID>31</clothesID>
+		<clothes>c1_1_n2,c1_2_n5,c2_1_n12,c2_2_n1,c3_2_n51,c3_4_n101,c5_1_n1,c5_2_n11</clothes>
+		<avatar>
+			<c1>c1_1_2,c1_2_5</c1>
+			<c2></c2>
+			<c3>c3_2_51,c3_4_101</c3>
+			<c4></c4>
+			<c5>c5_2_11</c5>
+			<c6></c6>
+			<c7></c7>
+			<start>c1_2_n5,c2_1_n11,c2_2_n1,c5_1_n1</start>
+			<paint>true</paint>
+			<pattern>true</pattern>
+		</avatar>
+		<gender>2</gender>
+		<scenes>2</scenes>
+	</news>
+	<news>
+		<title>女性正裝－長衫(明末款)</title>
+		<date>2019/10/6</date>
+		<content>服等：便服/小禮服\n\n適用對象：女性。\n\n穿著用途：日常居家/外出穿著；做為禮服、吉服之襯衫。\n\n服用時機：一般正式/休閒裝扮\n\n品質差異：買得起，就用高級一點；買不起，就穿普通一點。</content>
+		<clothesID>30</clothesID>
+		<clothes>c1_2_n4,c2_1_n6,c2_2_n1,c3_2_n41,c3_4_n11,c5_1_n1,c5_2_n11,c7_2_n1</clothes>
+		<avatar>
+			<c1>c1_2_4</c1>
+			<c2></c2>
+			<c3>c3_2_41,c3_4_11</c3>
+			<c4></c4>
+			<c5>c5_2_11</c5>
+			<c6>c6_1_11</c6>
+			<c7>c7_1_2,c7_2_1</c7>
+			<start>c2_1_n6,c2_2_n1,c5_1_n1</start>
+			<paint>true</paint>
+			<pattern>true</pattern>
+		</avatar>
+		<gender>2</gender>
+		<scenes>2</scenes>
+	</news>
+	<news>
+		<title>女性正裝－長衫(明末清初款)</title>
 		<date>2019/3/1</date>
 		<content>服等：便服/小禮服\n\n適用對象：女性。\n\n穿著用途：日常居家/外出穿著；做為禮服、吉服之襯衫。\n\n服用時機：一般正式/休閒裝扮\n\n品質差異：買得起，就用高級一點；買不起，就穿普通一點。</content>
 		<clothesID>26</clothesID>
-		<clothes>c1_2_3,c2_1_n1,c2_2_n1,c3_1_n1,c3_2_n11,c3_4_n11,c5_1_n1,c5_2_n11,c7_1_n1,c7_2_n1</clothes>
+		<clothes>c1_2_n3,c2_1_n1,c2_2_n1,c3_1_n1,c3_2_n11,c3_4_n11,c5_1_n1,c5_2_n11,c7_1_n1,c7_2_n1</clothes>
 		<avatar>
 			<c1>c1_2_3</c1>
 			<c2></c2>
@@ -316,9 +379,114 @@
 		<scenes>2</scenes>
 	</news>
 	<news>
+		<title>女性便服－比甲(明中款)</title>
+		<date>2019/10/6</date>
+		<content>服等：便服\n\n適用對象：女性。\n\n穿著用途：日常居家/外出穿著；特別是天寒時，或穿搭層次的選用。\n\n服用時機：日常居家/外出穿著\n\n</content>
+		<clothesID>50</clothesID>
+		<clothes>c2_1_n11,c2_2_n1,c3_2_n21,c3_4_n31,c4_1_n41,c5_1_n1,c5_2_n11</clothes>
+		<avatar>
+			<c1></c1>
+			<c2></c2>
+			<c3>c3_2_21,c3_4_31</c3>
+			<c4>c4_1_41</c4>
+			<c5>c5_2_11</c5>
+			<c6></c6>
+			<c7></c7>
+			<start>c2_1_n11,c2_2_n1,c5_1_n1</start>
+			<paint>true</paint>
+			<pattern>true</pattern>
+		</avatar>
+		<gender>2</gender>
+		<scenes>2</scenes>
+	</news>
+	<news>
+		<title>女性便服－比甲(嘉靖款)</title>
+		<date>2019/10/6</date>
+		<content>服等：便服\n\n適用對象：女性。\n\n穿著用途：日常居家/外出穿著；特別是天寒時，或穿搭層次的選用。\n\n服用時機：日常居家/外出穿著\n\n</content>
+		<clothesID>55</clothesID>
+		<clothes>c1_1_n2,c1_2_n5,c2_1_n12,c2_2_n1,c3_2_n51,c3_4_n101,c4_1_n61,c5_1_n1,c5_2_n11</clothes>
+		<avatar>
+			<c1>c1_1_2,c1_2_5</c1>
+			<c2></c2>
+			<c3>c3_2_51,c3_4_101</c3>
+			<c4>c4_1_61</c4>
+			<c5>c5_2_11</c5>
+			<c6></c6>
+			<c7></c7>
+			<start>c1_2_n5,c2_1_n11,c2_2_n1,c5_1_n1</start>
+			<paint>true</paint>
+			<pattern>true</pattern>
+		</avatar>
+		<gender>2</gender>
+		<scenes>2</scenes>
+	</news>
+	<news>
+		<title>女性便服－披風(明末款)</title>
+		<date>2019/10/6</date>
+		<content>服等：便服\n\n適用對象：女性。\n\n穿著用途：日常居家/外出穿著；特別是天寒時，或穿搭層次的選用。\n\n服用時機：日常居家/外出穿著\n\n</content>
+		<clothesID>54</clothesID>
+		<clothes>c1_2_n4,c2_1_n6,c2_2_n1,c3_2_n41,c3_4_n11,c4_1_n31,c5_1_n1,c5_2_n11</clothes>
+		<avatar>
+			<c1>c1_2_4</c1>
+			<c2></c2>
+			<c3>c3_2_41,c3_4_11</c3>
+			<c4>c4_1_31</c4>
+			<c5>c5_2_11</c5>
+			<c6>c6_1_11</c6>
+			<c7>c7_2_1</c7>
+			<start>c2_1_n6,c2_2_n1,c5_1_n1</start>
+			<paint>true</paint>
+			<pattern>true</pattern>
+		</avatar>
+		<gender>2</gender>
+		<scenes>2</scenes>
+	</news>
+	<news>
+		<title>女性便服－背褡(明末清初款)</title>
+		<date>2019/10/6</date>
+		<content>服等：便服\n\n適用對象：女性。\n\n穿著用途：日常居家/外出穿著；特別是天寒時，或穿搭層次的選用。\n\n服用時機：日常居家/外出穿著\n\n</content>
+		<clothesID>53</clothesID>
+		<clothes>c1_2_n3,c2_1_n1,c2_2_n1,c3_1_n1,c3_2_n11,c3_4_n11,c4_1_n71,c5_1_n1,c5_2_n11,c6_1_n11</clothes>
+		<avatar>
+			<c1>c1_2_3</c1>
+			<c2></c2>
+			<c3>c3_1_1,c3_2_11,c3_4_11</c3>
+			<c4>c4_1_71</c4>
+			<c5>c5_2_11</c5>
+			<c6>c6_1_11</c6>
+			<c7>c7_2_1</c7>
+			<start>c2_1_n1,c2_2_n1,c5_1_n1</start>
+			<paint>true</paint>
+			<pattern>true</pattern>
+		</avatar>
+		<gender>2</gender>
+		<scenes>2</scenes>
+	</news>
+	<news>
+		<title>男士便服－氅衣</title>
+		<date>2019/10/6</date>
+		<content>服等：便服\n\n適用對象：全民適用。\n\n穿著用途：日常居家/外出穿著；特別是天寒時，或穿搭層次的選用。\n\n服用時機：日常居家/外出穿著\n\n </content>
+		<clothesID>27</clothesID>
+		<clothes>c1_1_n4,c2_1_n2,c2_2_n1,c3_1_n6,c3_2_n51,c4_1_n21,c5_1_n1,c5_2_n21,c6_1_n71</clothes>
+		<avatar>
+			<c1>c1_1_4</c1>
+			<c2></c2>
+			<c3>c3_1_6,c3_2_51</c3>
+			<c4>c4_1_21</c4>
+			<c5>c5_2_21</c5>
+			<c6>c6_1_71</c6>
+			<c7></c7>
+			<start>c2_1_n2,c2_2_n1,c5_1_n1</start>
+			<paint>true</paint>
+			<pattern>true</pattern>
+		</avatar>
+		<gender>1</gender>
+		<scenes>2</scenes>
+	</news>
+	<news>
 		<title>戎裝－罩甲</title>
 		<date>2019/3/1</date>
-		<content>服等：便服\n\n適用對象：不分士庶，全民適用。\n\n穿著用途/服用時機：日常居家/外出穿著。\n\n </content>
+		<content>服等：便服\n\n適用對象：全民適用。\n\n穿著用途/服用時機：日常居家/外出穿著。\n\n </content>
 		<clothesID>48</clothesID>
 		<clothes>c1_1_n11,c2_1_n2,c2_2_n1,c3_2_n31,c4_1_n61,c5_1_n1,c5_2_n31,c6_1_n11</clothes>
 		<avatar>
