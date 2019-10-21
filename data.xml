@@ -189,7 +189,7 @@
 		<gender></gender>
 		<scenes></scenes>
 	</news>
-	<news>
+	<!-- <news>
 		<title>聖賢法服－深衣</title>
 		<date>2019/2/27</date>
 		<content>服等： 禮服（祭服）\n\n適用對象： 全民通用。\n\n穿著用途： 通用祭禮服；正禮服之襯衫。\n\n服用時機：一般庶民（通用禮祭服）、舉行自身之生命禮儀（成年禮服、入殮壽服）、舉行一般祭祀（祭服）、燕居時穿著（以穿著較具禮義、古制的服飾，表彰個人心性涵養。）\n\r必備特徵：麻布面料、白色袍身、黑色貼緣、直領大襟、分裁連屬。 </content>
@@ -524,7 +524,7 @@
 		</avatar>
 		<gender>1</gender>
 		<scenes>2</scenes>
-	</news>
+	</news> -->
 	<news>
 		<title>＊操作說明＊</title>
 		<date>2019/3/9</date>
