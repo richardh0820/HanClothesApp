@@ -1,6 +1,27 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <hanclothes>
 	<news>
+		<title>衣冠的辨識-古風篇（一）</title>
+		<date>2019/10/22</date>
+		<content>https://raw.githubusercontent.com/richardh0820/HanClothesApp/master/books/knowledge-10.jpg</content>
+		<clothesID>0</clothesID>
+		<clothes></clothes>
+		<avatar>
+			<c1></c1>
+			<c2></c2>
+			<c3></c3>
+			<c4></c4>
+			<c5></c5>
+			<c6></c6>
+			<c7></c7>
+			<start></start>
+			<paint></paint>
+			<pattern></pattern>
+		</avatar>
+		<gender></gender>
+		<scenes></scenes>
+	</news>
+	<news>
 		<title>祭孔服飾介紹</title>
 		<date>2019/9/25</date>
 		<content>https://raw.githubusercontent.com/richardh0820/HanClothesApp/master/books/knowledge-9.jpg</content>
