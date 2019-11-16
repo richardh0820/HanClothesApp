@@ -1,6 +1,27 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <hanclothes>
 	<news>
+		<title>明清服飾的流變（男裝篇）</title>
+		<date>2019/11/16</date>
+		<content>https://raw.githubusercontent.com/richardh0820/HanClothesApp/master/books/knowledge-13.jpg</content>
+		<clothesID>0</clothesID>
+		<clothes></clothes>
+		<avatar>
+			<c1></c1>
+			<c2></c2>
+			<c3></c3>
+			<c4></c4>
+			<c5></c5>
+			<c6></c6>
+			<c7></c7>
+			<start></start>
+			<paint></paint>
+			<pattern></pattern>
+		</avatar>
+		<gender></gender>
+		<scenes></scenes>
+	</news>
+	<news>
 		<title>衣冠穿搭指南（女裝篇）</title>
 		<date>2019/11/3</date>
 		<content>https://raw.githubusercontent.com/richardh0820/HanClothesApp/master/books/knowledge-12.jpg</content>
