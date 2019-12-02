@@ -35,7 +35,7 @@ $(function(){
 		var x = (((a+c+e*2)/2)-e-f)/(2*g);
 		var y = (d-e-f-(2*x*g))/(4*(g+1));
 		
-		alert("x:"+x.toFixed(1)+" ,y:"+y.toFixed(1));
+		$('.final').html("<p>褶寬: "+x.toFixed(1)+"</p><p>褶深: "+y.toFixed(1)+"</p>");
 	}
 })
 </script>
@@ -53,10 +53,7 @@ $(function(){
         <p>裙長(*建議不超過身高-60):<input type="text" name="hTxt" id="hTxt">公分</p>
         <p>幅寬:<input type="text" name="iTxt" id="iTxt">公分</p>
     </div>
-    <div>
-        <!-- <p>褶寬:</p>
-        <p>褶深:</p> -->
-    </div>
+    <div class="final"></div>
     內裙門繫帶-置頂;外裙門繫帶-置中
     <p><input type="button" name="ok" id="ok" value="確認"></p>
 </div>
