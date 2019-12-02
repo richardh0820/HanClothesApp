@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Expires" content="-1">
+<meta http-equiv="Pragma"  content="no-cache">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta http-equiv="Cache-Control"  content="no-store, no-cache,must-revalidate, max-age=0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title></title>
+<link rel="stylesheet" href="css/main.css" />
+
+
+<script src="http://code.jquery.com/jquery-2.0.0.min.js"></script>
+
+<script type="text/javascript">
+$(function(){
+	
+	
+	$('#ok').click(function(){
+		calculator();
+	})
+	
+	function calculator(){
+		var a = parseInt($('#aTxt').val());
+		var b = parseInt($('#bTxt').val());
+		var c = parseInt($('#cTxt').val());
+		var d = parseInt($('#dTxt').val());
+		var e = parseInt($('#eTxt').val());
+		var f = parseInt($('#fTxt').val());
+		var g = parseInt($('#gTxt').val());
+		var h = parseInt($('#hTxt').val());
+		var i = parseInt($('#iTxt').val());
+		var x = (((a+c+e*2)/2)-e-f)/(2*g);
+		var y = (d-e-f-(2*x*g))/(4*(g+1));
+		
+		alert("x:"+x.toFixed(1)+" ,y:"+y.toFixed(1));
+	}
+})
+</script>
+</head>
+<body>
+<div>
+    <div>
+        <p>淨腰圍:<input type="text" name="aTxt" id="aTxt">公分</p>
+        <p>淨臀圍:<input type="text" name="bTxt" id="bTxt">公分</p>
+        <p>放量(*參考:(淨臀圍-淨腰圍)/3;梯型褶5公分,平行褶10公分):<input type="text" name="cTxt" id="cTxt">公分</p>
+        <p>襬圍(*明制建議360~480公分):<input type="text" name="dTxt" id="dTxt">公分</p>
+        <p>內裙門寬:<input type="text" name="eTxt" id="eTxt">公分</p>
+        <p>外裙門寬:<input type="text" name="fTxt" id="fTxt">公分</p>
+        <p>褶數(算光面):<input type="text" name="gTxt" id="gTxt">褶</p>
+        <p>裙長(*建議不超過身高-60):<input type="text" name="hTxt" id="hTxt">公分</p>
+        <p>幅寬:<input type="text" name="iTxt" id="iTxt">公分</p>
+    </div>
+    <div>
+        <!-- <p>褶寬:</p>
+        <p>褶深:</p> -->
+    </div>
+    內裙門繫帶-置頂;外裙門繫帶-置中
+    <p><input type="button" name="ok" id="ok" value="確認"></p>
+</div>
+</body>
+</html>
