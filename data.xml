@@ -1,8 +1,29 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <hanclothes>
 	<news>
-		<title>明清服飾的流變（女裝篇-上）</title>
-		<date>2019/12/16</date>
+		<title>明代女裝的流變（一）</title>
+		<date>2021/5/22</date>
+		<content>https://raw.githubusercontent.com/richardh0820/HanClothesApp/master/books/knowledge-16.jpg</content>
+		<clothesID>0</clothesID>
+		<clothes></clothes>
+		<avatar>
+			<c1></c1>
+			<c2></c2>
+			<c3></c3>
+			<c4></c4>
+			<c5></c5>
+			<c6></c6>
+			<c7></c7>
+			<start></start>
+			<paint></paint>
+			<pattern></pattern>
+		</avatar>
+		<gender></gender>
+		<scenes></scenes>
+	</news>
+	<news>
+		<title>明代女裝的流變（二）</title>
+		<date>2021/5/22</date>
 		<content>https://raw.githubusercontent.com/richardh0820/HanClothesApp/master/books/knowledge-14.jpg</content>
 		<clothesID>0</clothesID>
 		<clothes></clothes>
@@ -22,8 +43,8 @@
 		<scenes></scenes>
 	</news>
 	<news>
-		<title>明清服飾的流變（女裝篇-下）</title>
-		<date>2019/12/16</date>
+		<title>明清女裝的流變</title>
+		<date>2021/5/22</date>
 		<content>https://raw.githubusercontent.com/richardh0820/HanClothesApp/master/books/knowledge-15.jpg</content>
 		<clothesID>0</clothesID>
 		<clothes></clothes>
